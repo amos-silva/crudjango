@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-^bjg1*nh9dsh6!4so@nxm@@@-qz+3dgx5&xa9o(=1)*=zl=%-m
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'projeto_crud.onrender.com'
+    'crud_amos.onrender.com'
 ]
 
 
